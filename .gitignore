@@ -17,3 +17,5 @@ node_modules/
 # Build
 dist/
 build/
+
+get_refresh_token.js
