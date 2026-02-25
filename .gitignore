@@ -1,0 +1,19 @@
+./english-tutor-agent-api/*.env
+./english-tutor-agent-api/node_modules/
+./english-tutor-agent-api/dist/
+./English-tutor-app/node_modules/
+
+./english-tutor-agent-api/env.*
+# ENV files
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Node modules
+node_modules/
+**/node_modules/
+
+# Build
+dist/
+build/
