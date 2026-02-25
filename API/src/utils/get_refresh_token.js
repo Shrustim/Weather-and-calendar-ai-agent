@@ -1,8 +1,8 @@
 import readline from "readline";
 import { google } from "googleapis";
 
-const CLIENT_ID = "1069781590971-jgmrj6or072s9442nv4le8ihseet4r07.apps.googleusercontent.com";
-const CLIENT_SECRET = "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";
+const CLIENT_ID = '';
+const CLIENT_SECRET = '';
 
 const oauth2Client = new google.auth.OAuth2(
   CLIENT_ID,
